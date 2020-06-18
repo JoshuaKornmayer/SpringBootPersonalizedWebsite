@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+}
+
+.headertext {
+  text-align: center;
+}
+
+.ovrPage {
+  background-color: yellow;
+}
+
+.aboutMe {
+  color: blue;
+}
+
+.aboutMe:hover {
+  color: yellow;
+  background-color: gray;
+  text-decoration: none;
+}
